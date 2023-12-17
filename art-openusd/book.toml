@@ -1,0 +1,6 @@
+[book]
+authors = ["DigitalBotLab"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Art Programming with OpenUSD"
